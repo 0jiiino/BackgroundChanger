@@ -1,0 +1,15 @@
+#together {
+    margin-top: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#CodeName {
+    font-size: 100px;
+}
+
+#ChangeButton {
+    font-size: 50px;
+    padding: 16px 50px;
+    margin-top: 50px;
+}
